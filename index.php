@@ -1,5 +1,6 @@
 <?php 
 echo 'Hello World';
+echo 'コンフリクトさせるぜ';
  ?>
 
  <!DOCTYPE html>
